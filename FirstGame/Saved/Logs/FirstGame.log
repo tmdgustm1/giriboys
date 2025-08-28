@@ -2380,3 +2380,264 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.28-08.43.08:928][585]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
 [2025.08.28-08.43.08:928][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.08.28-08.43.08:998][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.08.28-08.45.48:158][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12384.116211
+[2025.08.28-08.45.49:158][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-08.45.49:158][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12384.783203, Update Interval: 338.213440
+[2025.08.28-08.48.06:243][284]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstGame/BP_CounterSwitch.BP_CounterSwitch
+[2025.08.28-08.48.06:243][284]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.08.28-08.49.03:426][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2025.08.28-08.49.03:431][242]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.065
+[2025.08.28-08.49.03:432][242]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstGame/BP_CounterSwitch] ([2] browsable assets)...
+[2025.08.28-08.49.03:472][242]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstGame/BP_CounterSwitch.BP_CounterSwitch]
+[2025.08.28-08.49.03:472][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstGame/BP_CounterSwitch]
+[2025.08.28-08.49.03:472][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstGame/BP_CounterSwitch" FILE="../../../../../../현기리/giriboys/FirstGame/Saved/Autosaves/Game/FirstGame/BP_CounterSwitch_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.08.28-08.49.03:488][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstGame/BP_CounterSwitch_Auto0
+[2025.08.28-08.49.03:488][242]LogSavePackage: Moving '../../../../../../현기리/giriboys/FirstGame/Saved/BP_CounterSwitch_Auto01859EC5843F37E8CEE1029920706E2C1.tmp' to '../../../../../../현기리/giriboys/FirstGame/Saved/Autosaves/Game/FirstGame/BP_CounterSwitch_Auto0.uasset'
+[2025.08.28-08.49.03:489][242]LogFileHelpers: Auto-saving content packages took 0.057
+[2025.08.28-08.49.53:426][112]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstGame/BPI_Switch.BPI_Switch
+[2025.08.28-08.49.53:426][112]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.08.28-08.50.08:694][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.08.28-08.50.38:187][322]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-08.50.38:187][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-08.50.38:243][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.08.28-08.52.03:807][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12759.589844
+[2025.08.28-08.52.04:806][329]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-08.52.04:806][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12760.254883, Update Interval: 349.943542
+[2025.08.28-08.52.29:027][578]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstGame/Widget/HudWidget.HudWidget
+[2025.08.28-08.52.29:027][578]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.08.28-08.52.29:038][578]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.08.28-08.52.29:051][578]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2025.08.28-08.52.29:609][578]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.08.28-08.52.31:672][701]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-08.52.31:673][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-08.52.31:683][701]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-08.52.31:683][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-08.52.31:763][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.08.28-08.52.55:659][ 71]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.08.28-08.52.55:659][ 71]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.08.28-08.58.40:750][699]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13156.314453
+[2025.08.28-08.58.41:749][702]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-08.58.41:749][702]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13156.981445, Update Interval: 320.112915
+[2025.08.28-08.59.03:940][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2025.08.28-08.59.03:957][768]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.098
+[2025.08.28-08.59.03:958][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstGame/BPI_Switch] ([2] browsable assets)...
+[2025.08.28-08.59.03:958][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstGame/BPI_Switch]
+[2025.08.28-08.59.03:958][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstGame/BPI_Switch" FILE="../../../../../../현기리/giriboys/FirstGame/Saved/Autosaves/Game/FirstGame/BPI_Switch_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.08.28-08.59.03:962][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstGame/BPI_Switch_Auto1
+[2025.08.28-08.59.03:962][768]LogSavePackage: Moving '../../../../../../현기리/giriboys/FirstGame/Saved/BPI_Switch_Auto17E85BACE468ECA34C33609B45AB364A4.tmp' to '../../../../../../현기리/giriboys/FirstGame/Saved/Autosaves/Game/FirstGame/BPI_Switch_Auto1.uasset'
+[2025.08.28-08.59.03:963][768]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.08.28-09.04.37:045][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13512.562500
+[2025.08.28-09.04.38:043][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-09.04.38:043][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13513.226562, Update Interval: 340.932648
+[2025.08.28-09.06.42:106][476]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstGame/Projectile/BP_Cannon.BP_Cannon
+[2025.08.28-09.06.42:106][476]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.08.28-09.09.06:683][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.08.28-09.09.06:697][920]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.090
+[2025.08.28-09.10.53:571][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13889.062500
+[2025.08.28-09.10.53:822][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-09.10.53:822][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13889.296875, Update Interval: 321.423981
+[2025.08.28-09.17.11:508][996]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14266.897461
+[2025.08.28-09.17.12:507][999]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-09.17.12:507][999]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14267.564453, Update Interval: 350.404968
+[2025.08.28-09.19.07:329][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2025.08.28-09.19.07:338][343]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.057
+[2025.08.28-09.21.19:272][740]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.28-09.23.42:880][170]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14658.280273
+[2025.08.28-09.23.43:884][173]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-09.23.43:884][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14658.949219, Update Interval: 350.573456
+[2025.08.28-09.29.13:103][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.08.28-09.29.13:106][621]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.031
+[2025.08.28-09.29.23:823][ 85]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstGame/Projectile/BP_CannonBall.BP_CannonBall
+[2025.08.28-09.29.23:823][ 85]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.08.28-09.30.08:601][635]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15043.929688
+[2025.08.28-09.30.09:602][638]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-09.30.09:602][638]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15044.595703, Update Interval: 331.431000
+[2025.08.28-09.36.12:923][968]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15408.209961
+[2025.08.28-09.36.13:921][971]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-09.36.13:921][971]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15408.875977, Update Interval: 320.433350
+[2025.08.28-09.39.29:809][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.08.28-09.39.29:814][568]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.067
+[2025.08.28-09.42.09:752][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15764.905273
+[2025.08.28-09.42.10:019][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-09.42.10:019][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15765.153320, Update Interval: 356.846832
+[2025.08.28-09.42.44:316][907]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstGame/Widget/HudWidget.HudWidget
+[2025.08.28-09.42.44:316][907]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.08.28-09.42.44:343][907]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.08.28-09.42.58:754][718]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.42.58:754][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.42.58:766][718]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.42.58:766][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.42.58:844][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.08.28-09.45.46:467][878]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstGame/Widget/HudWidget.HudWidget
+[2025.08.28-09.45.46:467][878]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.08.28-09.45.46:479][878]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2025.08.28-09.47.21:583][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.08.28-09.47.22:835][ 36]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.08.28-09.47.22:847][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.28-09.47.22:951][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstGame/BPI_Switch] ([2] browsable assets)...
+[2025.08.28-09.47.22:951][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstGame/BPI_Switch]
+[2025.08.28-09.47.22:951][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstGame/BPI_Switch" FILE="../../../../../../현기리/giriboys/FirstGame/Content/FirstGame/BPI_Switch.uasset" SILENT=true
+[2025.08.28-09.47.22:954][ 36]LogSavePackage: Moving output files for package: /Game/FirstGame/BPI_Switch
+[2025.08.28-09.47.22:954][ 36]LogSavePackage: Moving '../../../../../../현기리/giriboys/FirstGame/Saved/BPI_Switch393CBC014BC6E6A5AB544388DE69C15B.tmp' to '../../../../../../현기리/giriboys/FirstGame/Content/FirstGame/BPI_Switch.uasset'
+[2025.08.28-09.47.22:956][ 36]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstGame/BP_CounterSwitch] ([2] browsable assets)...
+[2025.08.28-09.47.23:299][ 36]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstGame/BP_CounterSwitch.BP_CounterSwitch]
+[2025.08.28-09.47.23:299][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstGame/BP_CounterSwitch]
+[2025.08.28-09.47.23:299][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstGame/BP_CounterSwitch" FILE="../../../../../../현기리/giriboys/FirstGame/Content/FirstGame/BP_CounterSwitch.uasset" SILENT=true
+[2025.08.28-09.47.23:316][ 36]LogSavePackage: Moving output files for package: /Game/FirstGame/BP_CounterSwitch
+[2025.08.28-09.47.23:316][ 36]LogSavePackage: Moving '../../../../../../현기리/giriboys/FirstGame/Saved/BP_CounterSwitch18C1BBFB4F098B25892108B6CD777435.tmp' to '../../../../../../현기리/giriboys/FirstGame/Content/FirstGame/BP_CounterSwitch.uasset'
+[2025.08.28-09.47.23:320][ 36]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/T6/V8C6J98STN2CBS3W2EOPNV
+[2025.08.28-09.47.23:321][ 36]LogSavePackage: Moving '../../../../../../현기리/giriboys/FirstGame/Saved/V8C6J98STN2CBS3W2EOPNV4F21F74C4DC7B08535EA8ABED36F9084.tmp' to '../../../../../../현기리/giriboys/FirstGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/T6/V8C6J98STN2CBS3W2EOPNV.uasset'
+[2025.08.28-09.47.23:322][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.08.28-09.47.23:322][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.08.28-09.47.23:338][ 36]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.08.28-09.47.23:338][ 36]LogSavePackage: Moving '../../../../../../현기리/giriboys/FirstGame/Saved/BP_ThirdPersonCharacter3132119E46CAFD7CBA19EB87C3D94837.tmp' to '../../../../../../현기리/giriboys/FirstGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.08.28-09.47.23:340][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstGame/BP_Timer] ([2] browsable assets)...
+[2025.08.28-09.47.23:340][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstGame/BP_Timer]
+[2025.08.28-09.47.23:340][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstGame/BP_Timer" FILE="../../../../../../현기리/giriboys/FirstGame/Content/FirstGame/BP_Timer.uasset" SILENT=true
+[2025.08.28-09.47.23:352][ 36]LogSavePackage: Moving output files for package: /Game/FirstGame/BP_Timer
+[2025.08.28-09.47.23:352][ 36]LogSavePackage: Moving '../../../../../../현기리/giriboys/FirstGame/Saved/BP_Timer3EDE59B54800DE5F709F4F952294120B.tmp' to '../../../../../../현기리/giriboys/FirstGame/Content/FirstGame/BP_Timer.uasset'
+[2025.08.28-09.47.23:364][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.08.28-09.47.23:364][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.08.28-09.47.23:364][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="../../../../../../현기리/giriboys/FirstGame/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.08.28-09.47.23:366][ 36]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.08.28-09.47.23:366][ 36]LogSavePackage: Moving '../../../../../../현기리/giriboys/FirstGame/Saved/IMC_Default103550AC4D18C29B4BD24DB64A92BCCF.tmp' to '../../../../../../현기리/giriboys/FirstGame/Content/Input/IMC_Default.uasset'
+[2025.08.28-09.47.23:376][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 529.766 ms (total: 1.03 sec)
+[2025.08.28-09.47.23:504][ 36]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.23:504][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.23:615][ 36]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.28-09.47.23:615][ 36]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.23:615][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.23:698][ 36]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.28-09.47.23:698][ 36]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.23:698][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.23:751][ 36]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.23:751][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.23:760][ 36]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.23:761][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.23:806][ 36]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.28-09.47.23:806][ 36]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.23:806][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.23:927][ 36]LogSlate: Window 'FirstGame - 언리얼 에디터' being destroyed
+[2025.08.28-09.47.23:930][ 36]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2025.08.28-09.47.24:436][ 36]LogContentValidation: Display: Starting to validate 6 assets
+[2025.08.28-09.47.24:436][ 36]LogContentValidation: Enabled validators:
+[2025.08.28-09.47.24:436][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.28-09.47.24:436][ 36]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.28-09.47.24:436][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.28-09.47.24:436][ 36]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.28-09.47.24:436][ 36]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.28-09.47.24:436][ 36]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.28-09.47.24:436][ 36]AssetCheck: /Game/FirstGame/BPI_Switch 에셋 유효성 검사 중
+[2025.08.28-09.47.24:436][ 36]AssetCheck: /Game/FirstGame/BP_CounterSwitch 에셋 유효성 검사 중
+[2025.08.28-09.47.24:436][ 36]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson 에셋 유효성 검사 중
+[2025.08.28-09.47.24:437][ 36]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter 에셋 유효성 검사 중
+[2025.08.28-09.47.24:437][ 36]AssetCheck: /Game/FirstGame/BP_Timer 에셋 유효성 검사 중
+[2025.08.28-09.47.24:441][ 36]AssetCheck: /Game/Input/IMC_Default 에셋 유효성 검사 중
+[2025.08.28-09.47.24:526][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.08.28-09.47.24:618][ 36]Cmd: QUIT_EDITOR
+[2025.08.28-09.47.24:618][ 37]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.08.28-09.47.24:627][ 37]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.08.28-09.47.24:629][ 37]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.08.28-09.47.24:629][ 37]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.08.28-09.47.24:633][ 37]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:633][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:633][ 37]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.08.28-09.47.24:651][ 37]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.08.28-09.47.24:651][ 37]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.08.28-09.47.24:652][ 37]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.08.28-09.47.24:689][ 37]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:689][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:692][ 37]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:692][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:696][ 37]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:698][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:702][ 37]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:702][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:706][ 37]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:706][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:710][ 37]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:711][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:717][ 37]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:717][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:722][ 37]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:723][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:728][ 37]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:728][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:733][ 37]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:733][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:739][ 37]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:739][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:746][ 37]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:746][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:753][ 37]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:753][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:758][ 37]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:758][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:766][ 37]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:766][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:772][ 37]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:772][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:779][ 37]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:779][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:786][ 37]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-09.47.24:786][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-09.47.24:792][ 37]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.08.28-09.47.24:792][ 37]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.08.28-09.47.25:294][ 37]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.08.28-09.47.25:300][ 37]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.08.28-09.47.26:198][ 37]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.08.28-09.47.26:198][ 37]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.08.28-09.47.26:198][ 37]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2025.08.28-09.47.26:198][ 37]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.08.28-09.47.26:198][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.08.28-09.47.26:201][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.08.28-09.47.26:217][ 37]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.08.28-09.47.26:217][ 37]LogAudio: Display: Audio Device Manager Shutdown
+[2025.08.28-09.47.26:222][ 37]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.08.28-09.47.26:222][ 37]LogExit: Preparing to exit.
+[2025.08.28-09.47.26:290][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2025.08.28-09.47.26:307][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:307][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:307][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.26:309][ 37]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.28-09.47.27:313][ 37]LogEditorDataStorage: Deinitializing
+[2025.08.28-09.47.27:451][ 37]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.08.28-09.47.27:477][ 37]LogExit: Editor shut down
+[2025.08.28-09.47.27:483][ 37]LogExit: Transaction tracking system shut down
+[2025.08.28-09.47.27:936][ 37]LogExit: Object subsystem successfully closed.
+[2025.08.28-09.47.27:969][ 37]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.08.28-09.47.28:146][ 37]LogMemoryProfiler: Shutdown
+[2025.08.28-09.47.28:146][ 37]LogNetworkingProfiler: Shutdown
+[2025.08.28-09.47.28:146][ 37]LoadingProfiler: Shutdown
+[2025.08.28-09.47.28:146][ 37]LogTimingProfiler: Shutdown
+[2025.08.28-09.47.28:147][ 37]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.08.28-09.47.28:147][ 37]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.08.28-09.47.28:640][ 37]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.08.28-09.47.28:675][ 37]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.08.28-09.47.28:676][ 37]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF36839BF-4370-A7E0-529E-EFBE303F7E63%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=459551d04a2885fef002fcacb97d5469%7C6c81b5165d2d4ff3988975a9b046871f%7Cb27f9121-c2e9-4cdb-9097-a95622bbeff0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.08.28-09.47.29:745][ 37]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.08.28-09.47.29:751][ 37]LogNFORDenoise: NFORDenoise function shutting down
+[2025.08.28-09.47.29:751][ 37]RenderDocPlugin: plugin has been unloaded.
+[2025.08.28-09.47.29:755][ 37]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.08.28-09.47.29:755][ 37]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.08.28-09.47.29:755][ 37]LogPakFile: Destroying PakPlatformFile
+[2025.08.28-09.47.30:213][ 37]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.08.28-09.47.30:251][ 37]LogExit: Exiting.
+[2025.08.28-09.47.30:282][ 37]Log file closed, 08/28/25 18:47:30
